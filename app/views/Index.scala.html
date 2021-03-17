@@ -1,0 +1,9 @@
+@import views.html.GovUkWrapper
+
+@this(template: GovUkWrapper)
+
+@()(implicit messages: Messages)
+
+@template(title = "Hello") {
+<h1>@messages("index.pageHeading")</h1>
+    }

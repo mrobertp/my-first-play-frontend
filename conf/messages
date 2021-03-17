@@ -1,1 +1,4 @@
 # https://www.playframework.com/documentation/latest/ScalaI18N
+index.title = Hello
+index.pageHeading = This is the page heading
+
